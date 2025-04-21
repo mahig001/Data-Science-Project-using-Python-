@@ -1,21 +1,19 @@
 # Data-Science-Project-using-Python-
- Trend Analysis (2011–2021): Year-wise Population Growth
-Objective:
-Evaluate the overall population growth trend over a decade (2011 to 2021) to identify growth patterns, stagnation periods, or unusual surges.
+ Analyze population trends over a decade to detect growth patterns or anomalies.
 
 Approach:
 
-Extract and clean year-wise total population data.
+Clean and extract yearly population data (2011–2021)
 
-Plot line graphs to observe yearly changes.
+Plot a line graph to visualize changes
 
-Calculate year-over-year growth rates.
+Calculate and overlay year-over-year growth rates
 
-Identify any key events or factors correlating with sudden changes.
+Highlight any sudden surges or drops and explore potential causes
 
-Visualization Tools:
+Visualization:
 
-Line chart (Matplotlib/Seaborn)
+Line chart (using Matplotlib or Seaborn)
 
-Percentage growth overlay
+Overlay with percentage growth rate line
 
