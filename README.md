@@ -1,10 +1,21 @@
 # Data-Science-Project-using-Python-
-Trend Analysis (2011–2021): Examine year-wise population growth trends.
+ Trend Analysis (2011–2021): Year-wise Population Growth
+Objective:
+Evaluate the overall population growth trend over a decade (2011 to 2021) to identify growth patterns, stagnation periods, or unusual surges.
 
-Age Distribution: Visualize how different age groups contribute to total population.
+Approach:
 
-Gender Comparison: Analyze male vs. female population annually.
+Extract and clean year-wise total population data.
 
-Social Category Demographics: Track population trends across SC, ST, OBC categories.
+Plot line graphs to observe yearly changes.
 
-Population Forecasting: Predict future population using linear regression or moving average via NumPy.
+Calculate year-over-year growth rates.
+
+Identify any key events or factors correlating with sudden changes.
+
+Visualization Tools:
+
+Line chart (Matplotlib/Seaborn)
+
+Percentage growth overlay
+
