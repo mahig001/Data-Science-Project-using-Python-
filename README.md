@@ -1,19 +1,14 @@
 # Data-Science-Project-using-Python-
-Objective:
-Analyze population growth over the decade to detect patterns and anomalies.
-
 Approach:
+Clean population data (2011–2021)
 
-Clean and extract yearly population data (2011–2021).
+Plot line graph to show yearly changes
 
-Plot a line graph to show changes over time.
+Calculate & overlay YoY growth rates
 
-Calculate and overlay year-over-year growth rates.
-
-Identify any sudden surges or drops and explore potential causes.
+Highlight unusual surges or drops
 
 Visualization:
+Line chart (Matplotlib/Seaborn)
 
-Line chart (using Matplotlib/Seaborn).
-
-Overlay with percentage growth rate line.
+Overlay: % growth rate line
