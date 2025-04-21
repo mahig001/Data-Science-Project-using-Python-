@@ -1,14 +1,18 @@
 # Data-Science-Project-using-Python-
-Approach:
-Clean population data (2011–2021)
+Data Cleaning & Extraction (2011–2021):
 
-Plot line graph to show yearly changes
+Import the dataset and filter data for the years 2011 to 2021.
 
-Calculate & overlay YoY growth rates
+Handle missing or inconsistent entries (e.g., impute or drop null values).
 
-Highlight unusual surges or drops
+Ensure population figures are numeric and in proper format.
 
-Visualization:
-Line chart (Matplotlib/Seaborn)
+Line Graph for Yearly Trends:
 
-Overlay: % growth rate line
+Use libraries like Matplotlib or Seaborn to plot a line chart.
+
+X-axis: Years (2011–2021)
+
+Y-axis: Total Population
+
+This visualizes the overall trend and allows identification of patterns like consistent growth, plateaus, or dips.
