@@ -1,18 +1,25 @@
 # Data-Science-Project-using-Python-
 Data Cleaning & Extraction (2011–2021):
+Import Dataset: Load the population data for the relevant years (2011–2021).
 
-Import the dataset and filter data for the years 2011 to 2021.
+Filter Data: Select records only from 2011 to 2021.
 
-Handle missing or inconsistent entries (e.g., impute or drop null values).
+Handle Missing Data: Fill or remove missing or inconsistent values (e.g., using mean imputation).
 
-Ensure population figures are numeric and in proper format.
+Ensure Data Quality: Convert population data to numeric format and clean any invalid entries.
 
-Line Graph for Yearly Trends:
+Line Graph for Trends:
+Plot Line Graph:
 
-Use libraries like Matplotlib or Seaborn to plot a line chart.
+X-axis: Years (2011–2021).
 
-X-axis: Years (2011–2021)
+Y-axis: Total population.
 
-Y-axis: Total Population
+Use libraries like Matplotlib or Seaborn to visualize yearly population changes.
 
-This visualizes the overall trend and allows identification of patterns like consistent growth, plateaus, or dips.
+Analyze Trends:
+
+Identify growth periods, stagnation, or dips.
+
+Look for any unusual surges or drops and note potential causes
+
