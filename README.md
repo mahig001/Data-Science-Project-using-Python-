@@ -1,12 +1,10 @@
 # Data-Science-Project-using-Python-
-Analyzing the Impact of Academic and Professional Qualifications on Gender Distribution and Teaching Levels Across Indian School Categories and Management Types.
+Trend Analysis (2011–2021): Examine year-wise population growth trends.
 
-rend Analysis Over Time: Analyze population growth trends from 2011 to 2021.
+Age Distribution: Visualize how different age groups contribute to total population.
 
-Age Group Distribution Visualization: Visualize the contribution of different age groups to the population.
+Gender Comparison: Analyze male vs. female population annually.
 
-Gender-wise Population Comparison: Compare male and female populations for each year.
+Social Category Demographics: Track population trends across SC, ST, OBC categories.
 
-Category-wise Demographic Study: Study population trends based on social categories (e.g., SC, ST, OBC).
-
-Forecasting Population Growth: Use linear regression or moving average (using NumPy) to predict future population growth beyond 2021.
+Population Forecasting: Predict future population using linear regression or moving average via NumPy.
